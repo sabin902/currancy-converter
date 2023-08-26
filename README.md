@@ -1,1 +1,1 @@
-# currancy-converter
+# currency-converter
